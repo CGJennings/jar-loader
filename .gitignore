@@ -1,0 +1,17 @@
+nbproject/private/**
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+.nb-gradle/
+
+build/
+dist/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# virtual machine crash logs
+hs_err_pid*
+
